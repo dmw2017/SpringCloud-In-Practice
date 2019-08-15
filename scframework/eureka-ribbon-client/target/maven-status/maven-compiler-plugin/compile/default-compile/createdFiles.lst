@@ -1,0 +1,4 @@
+com/chinaunicom/erc/config/RibbonConfig.class
+com/chinaunicom/erc/service/RibbonService.class
+com/chinaunicom/erc/EurekaRibbonClientApplication.class
+com/chinaunicom/erc/controller/RibbonController.class

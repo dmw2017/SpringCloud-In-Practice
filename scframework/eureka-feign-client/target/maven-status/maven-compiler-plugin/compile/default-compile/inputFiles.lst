@@ -1,0 +1,6 @@
+/home/waichan/Develop/Workspace/scframework/eureka-feign-client/src/main/java/com/chinaunicom/eurekafeignclient/controller/HelloWorldController.java
+/home/waichan/Develop/Workspace/scframework/eureka-feign-client/src/main/java/com/chinaunicom/eurekafeignclient/component/HiHystrix.java
+/home/waichan/Develop/Workspace/scframework/eureka-feign-client/src/main/java/com/chinaunicom/eurekafeignclient/feignclient/EurekaClientFeign.java
+/home/waichan/Develop/Workspace/scframework/eureka-feign-client/src/main/java/com/chinaunicom/eurekafeignclient/config/FeignConfig.java
+/home/waichan/Develop/Workspace/scframework/eureka-feign-client/src/main/java/com/chinaunicom/eurekafeignclient/service/HelloWorldService.java
+/home/waichan/Develop/Workspace/scframework/eureka-feign-client/src/main/java/com/chinaunicom/eurekafeignclient/EurekaFeignClientApplication.java

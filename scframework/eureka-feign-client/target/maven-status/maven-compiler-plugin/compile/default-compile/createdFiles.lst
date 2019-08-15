@@ -1,0 +1,6 @@
+com/chinaunicom/eurekafeignclient/controller/HelloWorldController.class
+com/chinaunicom/eurekafeignclient/service/HelloWorldService.class
+com/chinaunicom/eurekafeignclient/config/FeignConfig.class
+com/chinaunicom/eurekafeignclient/feignclient/EurekaClientFeign.class
+com/chinaunicom/eurekafeignclient/component/HiHystrix.class
+com/chinaunicom/eurekafeignclient/EurekaFeignClientApplication.class
